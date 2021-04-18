@@ -3,8 +3,7 @@
 ## Demonstração 📸
 
 <div align="center" >
-  <img src="./github/GifWeb.gif" alt="demo-web" height="425">
-  <img src="./github/GifMobile.gif" alt="demo-mobile" height="425">
+  <img src="_imagens/super-trunfo.gif" alt="demo-web" height="450">
 </div>
 
 ---
