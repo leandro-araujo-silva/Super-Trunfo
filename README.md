@@ -3,14 +3,18 @@
 ## Demonstração 📸
 
 <div align="center" >
-  <img src="_imagens/super-trunfo.gif" alt="demo-web" height="450">
+  <img src="_imagens/super-trunfo.gif" alt="demo-web" height="400">
 </div>
 
 ---
 
+## Acesse o link para jogar:
+
+super-trunfo-psi.vercel.app
+
 ## Sobre o Projeto
 
-Projeto realizado no ImersãoDev da Alura!
+Projeto realizado no ImersãoDev da Alura com algumas modificações minhas!
 
 ### 🛠 Tecnologias
 
