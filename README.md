@@ -22,7 +22,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Javascript]
 ---
 
-<img src="./github/linkedin.png" alt="linkedin" height="50">
+<img src="https://github.com/leandro-araujo-silva/Proffy-FullStack/raw/master/github/linkedin.png" alt="linkedin" height="50">
 <br />
 
 Veja meu Linkedin: [LEANDRO ARAÚJO]
