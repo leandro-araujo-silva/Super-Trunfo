@@ -10,7 +10,7 @@
 
 ## Acesse o link para jogar:
 
-super-trunfo-psi.vercel.app
+https://super-trunfo-psi.vercel.app/
 
 ## Sobre o Projeto
 
