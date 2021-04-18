@@ -4,6 +4,7 @@
 
 <div align="center" >
   <img src="./github/GifWeb.gif" alt="demo-web" height="425">
+  <img src="./github/GifMobile.gif" alt="demo-mobile" height="425">
 </div>
 
 ---
@@ -16,10 +17,12 @@ Projeto realizado no ImersãoDev da Alura!
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [HTML5]()
-- [CSS3]()
-- [Javascript]()
-
+- [HTML5]
+- [CSS3]
+- [Javascript]
 ---
 
-Veja meu Linkedin: [LEANDRO ARAÚJO]()
+<img src="./github/linkedin.png" alt="linkedin" height="50">
+<br />
+
+Veja meu Linkedin: [LEANDRO ARAÚJO]
