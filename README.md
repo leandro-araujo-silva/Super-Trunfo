@@ -3,7 +3,7 @@
 ## Demonstração 📸
 
 <div align="center" >
-  <img src="_imagens/super-trunfo3.gif" alt="demo-web" height="300">
+  <img src="_imagens/super-trunfo3.gif" alt="demo-web" height="350">
 </div>
 
 ---
